@@ -29,7 +29,7 @@ r_squared  # Imprime el valor del R-cuadrado
 
 # Gráfico de dispersión y línea de regresión polinomial
 plot(
-  x, y, main = "Regresión polinomial",
+  x, y, main = "Regresion polinomial",
   xlab = "Velocidad (speed)",  # Etiqueta del eje X
   ylab = "Distancia (dist)"    # Etiqueta del eje Y
 )

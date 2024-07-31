@@ -8,6 +8,7 @@ dengue_dataset <-
   read.csv('C:/Users/anna/Desktop/9 cuatrimestre/DENGUE/DENGUE.csv', 
            header = TRUE, sep = ",")
 
+
 #Creamos y cargamos el dataset
 data("dengue_dataset");
 
